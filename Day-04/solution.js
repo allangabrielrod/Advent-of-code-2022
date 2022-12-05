@@ -115,4 +115,4 @@ console.log(
   "total assignments pairs fully contained:",
   totalAssignmentPairsFullyContained
 );
-console.log("total overlap tasks:", totalOverlappedAssignments);
+console.log("total overlapped tasks:", totalOverlappedAssignments);
